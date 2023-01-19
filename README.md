@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaUbarhande
 - 👀 I’m interested in Electronics and Firmware Designing
-- 🌱 I’m currently learning Electroncis and C++
+- 🌱 I’m currently learning Electronics and C++
 - 💞️ I’m looking to collaborate on youtube.
 - 📫 How to reach me, ataglimpseyt@gmail.com thats my email...
 
